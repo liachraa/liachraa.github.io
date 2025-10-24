@@ -1,2 +1,4 @@
-# liachraa.github.io
-Website source for <a href="https://liam.oluachra.id.au">liam.oluachra.id.au
+# Liam
+*A human according to captcha.*
+
+This repo mostky contains website files for <a href="https://liam.oluachra.id.au">liam.oluachra.id.au</a>
